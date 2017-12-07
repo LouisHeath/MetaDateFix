@@ -6,5 +6,7 @@ If the true creation date can be found in the name of the image, say IMG-0512201
 
 ### Running
 
-> cd metadata-fix
-> python3 fix.py
+```
+cd metadata-fix
+python3 fix.py
+```
